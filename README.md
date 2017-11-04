@@ -15,4 +15,4 @@ A sample screenshot:
 ![](https://user-images.githubusercontent.com/23619663/31903344-209735e4-b828-11e7-855b-6a31830d5e8b.png)
 
 A small video sample:<br>
-https://www.instagram.com/p/BQ-8ubDDTNi
+[![](https://j.gifs.com/kZZMGr.gif)](https://www.instagram.com/p/BQ-8ubDDTNi)
