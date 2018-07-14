@@ -1,6 +1,6 @@
 # Labyrinth 3D - my fun with pyglet
 
-The code launches an openGL-based little 3D first-person perspective game (kind of Doom-like) and lets the user control the area (just use arrow keys). It is just a small demo of pyglet library possibilities.
+The code launches an openGL-based little 3D first-person perspective game (kind of Doom-like) and lets the user control the area (just use your mouse and arrow keys). It is just a small demo of pyglet library possibilities.
 
 ## Contents
 - bricks.py - main code
